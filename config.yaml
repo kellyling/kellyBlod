@@ -27,9 +27,9 @@ params:
   Description: ""
   Keywords: "独立博客,程序员,思考,读书笔记,技术分享"
   Categories:
-    - "读书笔记"
-    - "技术文章"
-    - "思考感悟"
+    - "学习笔记"
+    - "技术分享"
+    - "其他内容"
 menu:
   main:
       - Name: "归档"
