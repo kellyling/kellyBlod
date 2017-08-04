@@ -16,16 +16,13 @@ Demo：[http://blog.coderzh.com/](http://blog.coderzh.com/)
 
 需要该皮肤的朋友请单独 clone 这个皮肤：[https://github.com/coderzh/hugo-rapid-theme](https://github.com/coderzh/hugo-rapid-theme)
 
-
-```
-
 ### 启动调试
 
 ```
 $ hugo server
-```
 
 打开浏览器：http://localhost:1313
+```
 
 ### 部署
 
